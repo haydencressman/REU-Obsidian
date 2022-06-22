@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "f246a5b8affdc449",
+    "type": "split",
+    "children": [
+      {
+        "id": "523f81647c845b75",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Week 3 Items/zed files/Testing and Training.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "06dbba75c9bc8b9c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Week 3 Items/zed files/Testing and Training.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efaf0d6fc2085399",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd24c04cf3b2a289",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e844a73c4daf4f2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3158ca518be6ae4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7cb834b134b4686",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eae385949b5efff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52f8ea990fd76f3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week 3 Items/zed files/Testing and Training.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f40141f3ef90489e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week 3 Items/zed files/Testing and Training.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "06dbba75c9bc8b9c",
+  "lastOpenFiles": [
+    "Week 3 Items/zed files/Testing and Training.md",
+    "Week 3 Items/Table of Contents.md",
+    "Week 3 Items/zed files/Notes From Reading.md",
+    "Week 3 Items/zed files/Basic Algorithm Types.md",
+    "Week 3 Items/zed files/Ideas.md",
+    "Week 3 Items/zed files/Supervised Learning Algorithm Notes.md",
+    "Week 3 Items/zed files/Confidence Ellipse.md",
+    "Week 3 Items/Machine Learning Notes.md",
+    "Week 1 Items/Readings.md",
+    "definitions/Week two definitions.md"
+  ]
+}

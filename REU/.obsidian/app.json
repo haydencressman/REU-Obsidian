@@ -1,0 +1,16 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "spellcheck": true,
+  "readableLineLength": false,
+  "trashOption": "local",
+  "attachmentFolderPath": "./assets",
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true
+}
