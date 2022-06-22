@@ -4,5 +4,5 @@ Table of Contents:
 3. [[Confidence Ellipse]]
 4. [[Supervised Learning Algorithm Notes]]
 5. [[Testing and Training]]
-6. [[Ideas]]
+6. [[Personal Notes+Questions]]
 
