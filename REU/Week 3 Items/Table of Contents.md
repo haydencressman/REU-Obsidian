@@ -5,4 +5,5 @@ Table of Contents:
 4. [[Supervised Learning Algorithm Notes]]
 5. [[Testing and Training]]
 6. [[Personal Notes+Questions]]
+7. [[Ellipse Area pt.2]]
 
