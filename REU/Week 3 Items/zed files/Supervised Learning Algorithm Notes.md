@@ -98,3 +98,29 @@ $$
 This $b$ is the slope of the line. The variables are the same as when calculating the y-intercept which is why these are generally calculated separately and reused.
 
 The line is calculated from given data, then predicts based on that line, ==most likely using conditions based on the calculated error that would be proposed by accepting that new data one way or another.==
+
+### ==Random Forest==
+Random forest is based off of majority voting for a classification of data. These use a combination of decision trees with a weighted training algorithm to accurately predict the desired outcome.
+
+A random forest would look something like this in a practical model sense of 3 model decision trees:
+
+```mermaid
+flowchart TD
+A[Instance] --> B((Decision\n1))
+A --> C((Decision\n2))
+A --> D((Decision\n3))
+B --> E((A))
+B --- F((B))
+C --- G((A))
+C --> H((B))
+D --- I((A))
+D -->J((B))
+E --> K[One A, Two B's\nB Majority]
+H -->K
+J--> K
+```
+
+I believe the random forest could have more accurate representation of data compared to the single decision tree due to the various nature of the random forest.
+### Discriminant Analysis
+
+### Support Vector Machine
