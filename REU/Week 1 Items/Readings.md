@@ -1,3 +1,5 @@
+[[Home]]
+
 # Week One
 
 caveat, most of these things are word for word what is said in the papers

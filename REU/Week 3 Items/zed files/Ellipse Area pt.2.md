@@ -1,4 +1,4 @@
-[[Table of Contents]]
+[[Table of Contents W3]]
 
 ## Problems
 Noticeable issues were found with the area calculated from the first algorithm. Never outright trust a man on github. A new algorithm was found that does essentially the same thing except mostly focuses on the eigenvalues and eigenvectors instead of going through the Pearson coefficient to obtain them. 

@@ -1,4 +1,4 @@
-[[Table of Contents]]
+[[Table of Contents W3]]
 
 ## <u>Calculating Confidence Ellipse on Scatter Plot<u/>
 

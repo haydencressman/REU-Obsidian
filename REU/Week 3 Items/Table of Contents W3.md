@@ -1,3 +1,6 @@
+[[Home]]
+
+
 Table of Contents:
 1. [[Basic Algorithm Types]]
 2. [[Notes From Reading]]
