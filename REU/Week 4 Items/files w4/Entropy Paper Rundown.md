@@ -11,7 +11,7 @@ A mathematical measurement of the level of randomness of a dataset is required, 
 
 ApEn is biased, and in order to 'un-bias' it, SampEn was introduced.
 
-## Statistics baby
+## Statistics
 Information theory was devised to analyze messages sent through a noisy channel and understanding how to reconstruct the message with low probability of error. 
 
 In the probabilistic case: (*straight from the source material*)

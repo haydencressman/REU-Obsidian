@@ -2,10 +2,10 @@
 
 
 ==*One thing to note, the ApEn algorithm considers each point similar to itself due to how the logarithmic function operates to avoid $ln(0)$. This produces some bias towards regularity.*==
-## PhysioNet Article
-This webpage goes on to explain ApEn using an example of heart rate measurements. 
 
-## ApEn Basics
+## ApEn from paper
+Generally speaking, given a time-series of length _N_, ApEn(_m_, _r_, _N_) is approximately equal to the negative average natural logarithm of the conditional probability that two subseries of length _m_ that are similar (within a tolerance given by ±_r_ times the standard deviation of the time-series) remain similar for subseries of length _m_ + 1. ApEn generates a unit-less number from 0 to 2: an ApEn value equal to zero corresponds to a time-series that is perfectly regular (e.g. a periodic signal), whereas an ApEn value equal to 2 is produced by random time-series (e.g. Gaussian noise). Importantly, the ApEn algorithm counts each subseries as matching itself. As a consequence, the ApEn algorithm inherently produces a bias towards regularity.
+
 ### ==wikipedia way==
 (From [Wikipedia](https://en.wikipedia.org/wiki/Approximate_entropy))
 
@@ -69,6 +69,10 @@ Complex but honestly more doable than the other way.
 
 ## ==For the Code==
 
-From the Research paper on ApEn and SampEn on COP data, they state that for clinical data ==$m$ should be set to either 2 or 3, $r$ is to be set between .1 and .25 times the standard deviation of the data, and $N$ should be equal to or greater than 1000.==
+From the Research paper on ApEn and SampEn on COP data, they state that for clinical data ==$m$ should be set to either 4 or 5, $r$ is to be set between .25 and .35 times the standard deviation of the data, and $N$ should be equal to or greater than 1000.==
 
 <u>ANOVA</u> is the Analysis of Variance. The paper uses the [Greenhouse-Geisser correction](https://en.wikipedia.org/wiki/Greenhouse–Geisser_correction#:~:text=The%20Greenhouse–Geisser%20correction,and%20Seymour%20Geisser%20in%201959.&text=.,-If%20sphericity%20is) during the procedure to correct p-values calculated.
+
+## SampEn from paper
+
+In order to counteract this shortcoming, the SampEn algorithm does not count self-matches. SampEn(_m_, _r_, _N_) is the negative natural logarithm of the conditional probability that two subseries similar for _m_ points remain similar for _m_ + 1, where self-matches are not included in calculating the probability. In addition to eliminating self-matches, it has been shown that SampEn is largely independent of the data length and shows more consistent behaviours than ApEn.

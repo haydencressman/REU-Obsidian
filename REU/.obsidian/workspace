@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Week 4 Items/files w4/Usage of ApEn.md",
-            "mode": "preview",
+            "file": "Week 4 Items/files w4/Entropy Paper Rundown.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4 Items/files w4/Usage of ApEn.md",
+                "file": "Week 4 Items/files w4/Entropy Paper Rundown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4 Items/files w4/Usage of ApEn.md",
+                "file": "Week 4 Items/files w4/Entropy Paper Rundown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,15 +101,15 @@
   },
   "active": "a7ec00ae7ab0d9a9",
   "lastOpenFiles": [
-    "Week 4 Items/files w4/Usage of ApEn.md",
     "Week 4 Items/files w4/Entropy Paper Rundown.md",
+    "Week 4 Items/files w4/Usage of ApEn and SampEn.md",
+    "Week 4 Items/files w4/Usage of SampEn.md",
     "Week 4 Items/Table of Contents W4.md",
     "Home.md",
     "Week 3 Items/Table of Contents W3.md",
     "Week 2 Items/Readings.md",
     "Week 1 Items/Readings.md",
     "Week 3 Items/zed files/Ellipse Area pt.2.md",
-    "Week 3 Items/zed files/Supervised Learning Algorithm Notes.md",
-    "Week 3 Items/zed files/Personal Notes+Questions.md"
+    "Week 3 Items/zed files/Supervised Learning Algorithm Notes.md"
   ]
 }
