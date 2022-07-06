@@ -9,8 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Week 4 Items/files w4/Entropy Paper Rundown.md",
+            "file": "Week 5 Items/files w5/Multi-Scale Entropy.md",
             "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "f2596fa8e8ac1b81",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Week 5 Items/files w5/Multi-Scale Entropy.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4 Items/files w4/Entropy Paper Rundown.md",
+                "file": "Week 5 Items/files w5/Multi-Scale Entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4 Items/files w4/Entropy Paper Rundown.md",
+                "file": "Week 5 Items/files w5/Multi-Scale Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,15 +113,15 @@
   },
   "active": "a7ec00ae7ab0d9a9",
   "lastOpenFiles": [
-    "Week 4 Items/files w4/Entropy Paper Rundown.md",
-    "Week 4 Items/files w4/Usage of ApEn and SampEn.md",
-    "Week 4 Items/files w4/Usage of SampEn.md",
+    "Week 5 Items/files w5/Multi-Scale Entropy.md",
+    "definitions/Week one definitions.md",
+    "definitions/Week two definitions.md",
+    "Week 5 Items/Table of Contents W5.md",
     "Week 4 Items/Table of Contents W4.md",
     "Home.md",
-    "Week 3 Items/Table of Contents W3.md",
-    "Week 2 Items/Readings.md",
-    "Week 1 Items/Readings.md",
-    "Week 3 Items/zed files/Ellipse Area pt.2.md",
-    "Week 3 Items/zed files/Supervised Learning Algorithm Notes.md"
+    "Week 4 Items/files w4/Usage of ApEn and SampEn.md",
+    "Week 4 Items/files w4/Entropy Paper Rundown.md",
+    "Week 4 Items/files w4/Usage of SampEn.md",
+    "Week 3 Items/Table of Contents W3.md"
   ]
 }
