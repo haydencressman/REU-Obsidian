@@ -33,3 +33,5 @@ $$
 This is the basic equation that doesn't employ the eigenvalues. I assume the entirety of the $b,a =$ equation is related to that, but it is 8:00 PM and I want to rest my weary eyes. This is a project for another time. 
 
 I could use this to write my own script and see how that fares compared to the other ones, but again I am just going to this later or over the weekend. I need rest.
+
+SMART scholarship
