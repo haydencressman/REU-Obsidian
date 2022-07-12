@@ -15,3 +15,10 @@ so for the finding of the data in the files, try to just get the names of files 
 so far so good, got the file names for the control group in not a long amount of time, thought it would take longer. So now all we need to do is get the data into dataframes and then do the same with the ASD data. After that it shouldn't take long to just copy what we've done so far with the rest of the data, and it might even take less time since we now have EntropyHub. 
 
 ---
+7/11/2022
+The code for the control group is good, just need to do the thing with selecting the one with the higher stability. Actually before I start on that I should email Dr. Li about it one sec...
+Ok emailed him, just said to compare the areas and path (whichever is shorter has the best stability). I guess we can just show him what we mean on wednesday or tomorrow if we can't figure it out today as to why it's giving us literally ~700 centimeters as the path length on these two subjects because otherwise the area and displacement looks good. Who knows.
+
+Added some stuff on both the control group and the ASD group. For some reason the path length is always acting weird. I have no reason to believe it's wrong, I just feel like it might not be a great data attribute or maybe I am just calculating it wrong. It's weird. I sincerely think it is from the fact that they have more data points in the control group or something or maybe it's just because they're kids. We shall see tomorrow because seriously I am *bushed*. A literal bush. I grow leaves from my thorax.
+
+---

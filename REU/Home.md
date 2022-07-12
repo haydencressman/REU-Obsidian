@@ -18,3 +18,11 @@ Week 5 Multi Scale Entropy, Code, and some Friday Notes on Programs
 [[Table of Contents W5]]
 
 ---
+Week 6 Data and More Data
+[[Table of Contents W6]]
+
+---
+Poster Presentation
+[[Poster Presentation]]
+
+---
