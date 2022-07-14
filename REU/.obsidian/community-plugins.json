@@ -2,5 +2,6 @@
   "templater-obsidian",
   "url-into-selection",
   "cm-editor-syntax-highlight-obsidian",
-  "quick-latex"
+  "quick-latex",
+  "obsidian-advanced-slides"
 ]
