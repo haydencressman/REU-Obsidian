@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thursday Meeting 7_14_2022.md",
+            "file": "Week 7 The final Frontier/Week 7 files/What do.md",
             "mode": "source",
             "source": true
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 145.5
+    "width": 188.5
   },
   "right": {
     "id": "a7cb834b134b4686",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thursday Meeting 7_14_2022.md",
+                "file": "Week 7 The final Frontier/Week 7 files/What do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thursday Meeting 7_14_2022.md",
+                "file": "Week 7 The final Frontier/Week 7 files/What do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,15 +101,15 @@
   },
   "active": "a7ec00ae7ab0d9a9",
   "lastOpenFiles": [
-    "Thursday Meeting 7_14_2022.md",
-    "Week 6 Data and More Data/files w6/for the code.md",
-    "Thursday 7_14_2022 Presentation.md",
-    "Home.md",
+    "Week 7 The final Frontier/Week 7 files/What do.md",
+    "Week 7 The final Frontier/Week 7 Table of Contents.md",
     "Week 5 MultiScale Entropy + Code/Table of Contents W5.md",
     "Week 6 Data and More Data/Table of Contents W6.md",
+    "Thursday Meeting 7_14_2022.md",
+    "Amazon Tour Day.md",
+    "Poster Presentation.md",
     "Week 3 Machine Learning Algs/zed files/Supervised Learning Algorithm Notes.md",
     "Week 3 Machine Learning Algs/Table of Contents W3.md",
-    "Week 3 Machine Learning Algs/zed files/Basic Algorithm Types.md",
-    "Week 2 ASD Readings/Readings.md"
+    "Home.md"
   ]
 }
