@@ -1,17 +1,17 @@
 {
   "main": {
-    "id": "f246a5b8affdc449",
+    "id": "2f1cd973f7e6c5be",
     "type": "split",
     "children": [
       {
-        "id": "a7ec00ae7ab0d9a9",
+        "id": "6d9aaa774b8d7f72",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Final meeting Stuff.md",
+            "file": "REU/Home.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "efaf0d6fc2085399",
+    "id": "1d7c0e3131c7f12e",
     "type": "split",
     "children": [
       {
-        "id": "cd24c04cf3b2a289",
+        "id": "f5621e12028090ff",
         "type": "tabs",
         "children": [
           {
-            "id": "e844a73c4daf4f2b",
+            "id": "82ff86d29280031a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "3158ca518be6ae4b",
+            "id": "70a46e4cf76c8d06",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -48,28 +48,36 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "5cbdc7b7d11a3580",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 188.5
+    "width": 300
   },
   "right": {
-    "id": "a7cb834b134b4686",
+    "id": "2b6e7a1aac8eb5a2",
     "type": "split",
     "children": [
       {
-        "id": "8eae385949b5efff",
+        "id": "8bfc0f634c1ce94c",
         "type": "tabs",
         "children": [
           {
-            "id": "52f8ea990fd76f3b",
+            "id": "1b01ab3727f1a7ab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final meeting Stuff.md",
+                "file": "REU/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,14 +89,35 @@
             }
           },
           {
-            "id": "f40141f3ef90489e",
+            "id": "24644341629bf1c1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final meeting Stuff.md",
+                "file": "REU/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3aeac8889396a89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9afdac74a1908ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "REU/Home.md"
               }
             }
           }
@@ -99,17 +128,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a7ec00ae7ab0d9a9",
-  "lastOpenFiles": [
-    "Week 3 Machine Learning Algs/zed files/Supervised Learning Algorithm Notes.md",
-    "Week 3 Machine Learning Algs/Table of Contents W3.md",
-    "Week 3 Machine Learning Algs/zed files/Ellipse Area pt.2.md",
-    "Home.md",
-    "Week 2 ASD Readings/Readings.md",
-    "Week 5 MultiScale Entropy + Code/Table of Contents W5.md",
-    "Week 6 Data and More Data/Table of Contents W6.md",
-    "Week 6 Data and More Data/files w6/for the code.md",
-    "Week 5 MultiScale Entropy + Code/files w5/Ideas for Big Code.md",
-    "Week 5 MultiScale Entropy + Code/files w5/The Quest for the Holy Elliptical Area.md"
-  ]
+  "active": "6d9aaa774b8d7f72",
+  "lastOpenFiles": []
 }
